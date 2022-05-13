@@ -45,3 +45,8 @@ const error = useError()
   </div>
 </template>
 ```
+
+## 参考URL
+
+- https://v3.nuxtjs.org/guide/features/error-handling/
+
