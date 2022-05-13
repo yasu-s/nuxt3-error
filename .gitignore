@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+# nuxt3
+node_modules
+*.log*
+.nuxt
+.nitro
+.cache
+.output
+.env
