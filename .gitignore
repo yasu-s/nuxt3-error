@@ -111,3 +111,6 @@ node_modules
 .cache
 .output
 .env
+
+# Mac
+.DS_Store
